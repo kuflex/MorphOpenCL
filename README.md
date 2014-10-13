@@ -2,7 +2,7 @@ MorphOpenCL
 ===========
 Morphing particles from cube to face made with openFrameworks and OpenCL.
 Demo video - http://www.youtube.com/watch?v=iafEr-T2p5g
-===========
+
 This is example of using OpenCL for creating particle system,
 which morphs between two 3D shapes - cube and face image
 
