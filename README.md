@@ -17,5 +17,5 @@ on example-Particles example of ofxMSAOpenCL adoon.
 It uses addons ofxMSAOpenCL and ofxMSAPingPong.
 For simplicity this addons are placed right in the project's folder.
 
-The code and "ksenia.jpg" photo made by Kuflex.com, 2014:
+The code and "ksenia.jpg" photo made by http://kuflex.com, 2014:
 Denis Perevalov, Igor Sodazot and Ksenia Lyashenko.
